@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","45505","Test Case 5 : Book the Lowest Price Flights","","Tue Oct 29 15:07:22 IST 2024","passed","Tue Oct 29 15:08:07 IST 2024","","MobApp Test Emirates Demo","",""
+"","37536","Test Case 4 : Compare Flights Price","","Tue Oct 29 15:06:44 IST 2024","passed","Tue Oct 29 15:07:22 IST 2024","","MobApp Test Emirates Demo","",""
+"","42697","Test Case 2 : Login to Skywards Account","","Tue Oct 29 15:05:36 IST 2024","passed","Tue Oct 29 15:06:19 IST 2024","","MobApp Test Emirates Demo","",""
+"","13912","Test Case 6 : Logout User","","Tue Oct 29 15:08:07 IST 2024","passed","Tue Oct 29 15:08:21 IST 2024","","MobApp Test Emirates Demo","",""
+"","15905","Test Case 1 : Initialize Device and Application","","Tue Oct 29 15:05:20 IST 2024","passed","Tue Oct 29 15:05:36 IST 2024","","MobApp Test Emirates Demo","",""
+"","25051","Test Case 3 : Search Flights","","Tue Oct 29 15:06:19 IST 2024","passed","Tue Oct 29 15:06:44 IST 2024","","MobApp Test Emirates Demo","",""
